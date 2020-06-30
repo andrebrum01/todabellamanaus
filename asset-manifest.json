@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/todabellamanaus/static/css/main.2ccb055d.chunk.css",
-    "main.js": "/todabellamanaus/static/js/main.1f865827.chunk.js",
-    "main.js.map": "/todabellamanaus/static/js/main.1f865827.chunk.js.map",
-    "runtime-main.js": "/todabellamanaus/static/js/runtime-main.5bc6b609.js",
-    "runtime-main.js.map": "/todabellamanaus/static/js/runtime-main.5bc6b609.js.map",
-    "static/js/2.c2f0790e.chunk.js": "/todabellamanaus/static/js/2.c2f0790e.chunk.js",
-    "static/js/2.c2f0790e.chunk.js.map": "/todabellamanaus/static/js/2.c2f0790e.chunk.js.map",
-    "static/js/3.3fffc3cf.chunk.js": "/todabellamanaus/static/js/3.3fffc3cf.chunk.js",
-    "static/js/3.3fffc3cf.chunk.js.map": "/todabellamanaus/static/js/3.3fffc3cf.chunk.js.map",
+    "main.js": "/todabellamanaus/static/js/main.08089475.chunk.js",
+    "main.js.map": "/todabellamanaus/static/js/main.08089475.chunk.js.map",
+    "runtime-main.js": "/todabellamanaus/static/js/runtime-main.e96ec917.js",
+    "runtime-main.js.map": "/todabellamanaus/static/js/runtime-main.e96ec917.js.map",
+    "static/js/2.a6448344.chunk.js": "/todabellamanaus/static/js/2.a6448344.chunk.js",
+    "static/js/2.a6448344.chunk.js.map": "/todabellamanaus/static/js/2.a6448344.chunk.js.map",
+    "static/js/3.3ded6c34.chunk.js": "/todabellamanaus/static/js/3.3ded6c34.chunk.js",
+    "static/js/3.3ded6c34.chunk.js.map": "/todabellamanaus/static/js/3.3ded6c34.chunk.js.map",
     "static/css/4.e5c64934.chunk.css": "/todabellamanaus/static/css/4.e5c64934.chunk.css",
     "static/js/4.5f4d4d3b.chunk.js": "/todabellamanaus/static/js/4.5f4d4d3b.chunk.js",
     "static/js/4.5f4d4d3b.chunk.js.map": "/todabellamanaus/static/js/4.5f4d4d3b.chunk.js.map",
@@ -19,11 +19,11 @@
     "static/js/7.5c2600b8.chunk.js": "/todabellamanaus/static/js/7.5c2600b8.chunk.js",
     "static/js/7.5c2600b8.chunk.js.map": "/todabellamanaus/static/js/7.5c2600b8.chunk.js.map",
     "index.html": "/todabellamanaus/index.html",
-    "precache-manifest.d316d879fa4023fa609ace347d1f5b94.js": "/todabellamanaus/precache-manifest.d316d879fa4023fa609ace347d1f5b94.js",
+    "precache-manifest.f425ef05c135811657208dd2e7de73e0.js": "/todabellamanaus/precache-manifest.f425ef05c135811657208dd2e7de73e0.js",
     "service-worker.js": "/todabellamanaus/service-worker.js",
     "static/css/4.e5c64934.chunk.css.map": "/todabellamanaus/static/css/4.e5c64934.chunk.css.map",
     "static/css/main.2ccb055d.chunk.css.map": "/todabellamanaus/static/css/main.2ccb055d.chunk.css.map",
-    "static/js/2.c2f0790e.chunk.js.LICENSE.txt": "/todabellamanaus/static/js/2.c2f0790e.chunk.js.LICENSE.txt",
+    "static/js/2.a6448344.chunk.js.LICENSE.txt": "/todabellamanaus/static/js/2.a6448344.chunk.js.LICENSE.txt",
     "static/js/4.5f4d4d3b.chunk.js.LICENSE.txt": "/todabellamanaus/static/js/4.5f4d4d3b.chunk.js.LICENSE.txt",
     "static/media/acneica.jpg": "/todabellamanaus/static/media/acneica.38393b0e.jpg",
     "static/media/add.svg": "/todabellamanaus/static/media/add.dcada123.svg",
@@ -55,9 +55,9 @@
     "static/media/todabella.jpg": "/todabellamanaus/static/media/todabella.82943c89.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5bc6b609.js",
-    "static/js/2.c2f0790e.chunk.js",
+    "static/js/runtime-main.e96ec917.js",
+    "static/js/2.a6448344.chunk.js",
     "static/css/main.2ccb055d.chunk.css",
-    "static/js/main.1f865827.chunk.js"
+    "static/js/main.08089475.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9fbf364b21e6faeec16a5ed08e3504b",
+    "revision": "0b934a8d832d71edb6339f85d077520f",
     "url": "/todabellamanaus/index.html"
   },
   {
@@ -8,20 +8,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todabellamanaus/static/css/4.e5c64934.chunk.css"
   },
   {
-    "revision": "9fc5a93ba8b7f5c68de1",
+    "revision": "3ea21cdb2caec3a2fd2d",
     "url": "/todabellamanaus/static/css/main.2ccb055d.chunk.css"
   },
   {
-    "revision": "5db33ff5a12f9e1c600a",
-    "url": "/todabellamanaus/static/js/2.c2f0790e.chunk.js"
+    "revision": "992fb19be3f3f05d64f2",
+    "url": "/todabellamanaus/static/js/2.a6448344.chunk.js"
   },
   {
     "revision": "ffa35a34964860fdc97ed79ca9abd27c",
-    "url": "/todabellamanaus/static/js/2.c2f0790e.chunk.js.LICENSE.txt"
+    "url": "/todabellamanaus/static/js/2.a6448344.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d267c3c01e89a7e9f33",
-    "url": "/todabellamanaus/static/js/3.3fffc3cf.chunk.js"
+    "revision": "cb70a2cd0be58a34ccf1",
+    "url": "/todabellamanaus/static/js/3.3ded6c34.chunk.js"
   },
   {
     "revision": "2418135aad30076fbe1e",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todabellamanaus/static/js/7.5c2600b8.chunk.js"
   },
   {
-    "revision": "9fc5a93ba8b7f5c68de1",
-    "url": "/todabellamanaus/static/js/main.1f865827.chunk.js"
+    "revision": "3ea21cdb2caec3a2fd2d",
+    "url": "/todabellamanaus/static/js/main.08089475.chunk.js"
   },
   {
-    "revision": "f30553b1e42bc3d0a32f",
-    "url": "/todabellamanaus/static/js/runtime-main.5bc6b609.js"
+    "revision": "5db3b933d926645316c6",
+    "url": "/todabellamanaus/static/js/runtime-main.e96ec917.js"
   },
   {
     "revision": "38393b0e3582c4250e56aba963a05d07",
