@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f82f360e87f76ae0ae153dc1faedfcc",
+    "revision": "aa13059dc6d55729108f0fb584f4ba41",
     "url": "/todabella/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todabella/static/css/4.f6a621e6.chunk.css"
   },
   {
-    "revision": "d25c44e0e5200b55966d",
+    "revision": "81b112cf5bdce2565a61",
     "url": "/todabella/static/css/main.2ccb055d.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todabella/static/js/7.5c2600b8.chunk.js"
   },
   {
-    "revision": "d25c44e0e5200b55966d",
-    "url": "/todabella/static/js/main.d5679061.chunk.js"
+    "revision": "81b112cf5bdce2565a61",
+    "url": "/todabella/static/js/main.66408a8a.chunk.js"
   },
   {
     "revision": "d31ef4b32e00ddec271b",

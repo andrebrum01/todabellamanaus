@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/todabella/static/css/main.2ccb055d.chunk.css",
-    "main.js": "/todabella/static/js/main.d5679061.chunk.js",
-    "main.js.map": "/todabella/static/js/main.d5679061.chunk.js.map",
+    "main.js": "/todabella/static/js/main.66408a8a.chunk.js",
+    "main.js.map": "/todabella/static/js/main.66408a8a.chunk.js.map",
     "runtime-main.js": "/todabella/static/js/runtime-main.5b02c107.js",
     "runtime-main.js.map": "/todabella/static/js/runtime-main.5b02c107.js.map",
     "static/js/2.0e59919d.chunk.js": "/todabella/static/js/2.0e59919d.chunk.js",
@@ -19,7 +19,7 @@
     "static/js/7.5c2600b8.chunk.js": "/todabella/static/js/7.5c2600b8.chunk.js",
     "static/js/7.5c2600b8.chunk.js.map": "/todabella/static/js/7.5c2600b8.chunk.js.map",
     "index.html": "/todabella/index.html",
-    "precache-manifest.73cf78a3a8c92ee4be73b4de5ff0768f.js": "/todabella/precache-manifest.73cf78a3a8c92ee4be73b4de5ff0768f.js",
+    "precache-manifest.d8ffc7d4ff20d0b915f1b9f99046420e.js": "/todabella/precache-manifest.d8ffc7d4ff20d0b915f1b9f99046420e.js",
     "service-worker.js": "/todabella/service-worker.js",
     "static/css/4.f6a621e6.chunk.css.map": "/todabella/static/css/4.f6a621e6.chunk.css.map",
     "static/css/main.2ccb055d.chunk.css.map": "/todabella/static/css/main.2ccb055d.chunk.css.map",
@@ -58,6 +58,6 @@
     "static/js/runtime-main.5b02c107.js",
     "static/js/2.0e59919d.chunk.js",
     "static/css/main.2ccb055d.chunk.css",
-    "static/js/main.d5679061.chunk.js"
+    "static/js/main.66408a8a.chunk.js"
   ]
 }
